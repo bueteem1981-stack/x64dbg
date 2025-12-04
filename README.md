@@ -164,3 +164,4 @@ Before fully transitioning to [GitHub Sponsors](https://github.com/sponsors/mrex
 |EmptyBrain|$50|2017-01-27||[ethical.blue](https://ethical.blue)|$19|2022-05-14|
 
 _To all our early supporters: thank you for believing in this project before it became what it is today!_
+
